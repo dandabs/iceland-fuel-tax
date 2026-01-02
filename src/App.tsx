@@ -679,6 +679,19 @@ function App() {
           </div>
         )}
       </div>
+
+      <footer className="mt-8 text-center text-sm text-gray-500">
+        Built with &#60;3 by{' '}
+        <a
+          href="https://dsk.is"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-blue-600 hover:text-blue-700 hover:underline"
+        >
+          Daniel Adams
+        </a>
+        {' '}(kt. 050705-3660).
+      </footer>
     </div>
   )
 }
