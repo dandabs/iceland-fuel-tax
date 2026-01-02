@@ -66,7 +66,7 @@ const resources = {
   },
   is: {
     translation: {
-      title: "Reiknivél kílómetragjalds á Íslandi",
+      title: "Reiknivél kílómetragjalds",
       inputs: "Inntak",
       results: "Niðurstöður",
       vehicleType: "Tegund ökutækis",
